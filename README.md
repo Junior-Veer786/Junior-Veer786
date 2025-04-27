@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **Open-Source Projects** and **Freelance Data Analysis** work.
 - 💬 Ask me about **Python, SQL, Power BI, Web Development, Data Visualization**.
 - 📫 Reach me at: **tanweermuhammad@email.com** (Update with your real email)
-- ⚡ Fun fact: **I love turning complex data into beautiful, easy-to-understand dashboards and solutions!**
+- ⚡ Fun fact: **let's Exploring the World of Data & Empowering Businesses with Data-Driven Solutions. !**
 
 ---
 
@@ -54,10 +54,10 @@
 ## 🌐 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+  <a href="https://linkedin.com/in/muhammadtanweer786/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="blank">
+  <a href="mailto:info.veer.786@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
