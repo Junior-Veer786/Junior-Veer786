@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **Open-Source Projects** and **Freelance Data Analysis** work.
 - 💬 Ask me about **Python, SQL, Power BI, Web Development, Data Visualization**.
 - 📫 Reach me at: **info.veer.786@gmail.com**
-- ⚡ Fun fact: **let's Exploring the World of Data & Empowering Businesses with Data-Driven Solutions. !**
+- ⚡ Fun fact: **let's Explore the World of Data & Empower Businesses with Data-Driven Solutions. !**
 
 ---
 
