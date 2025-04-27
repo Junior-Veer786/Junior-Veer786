@@ -13,7 +13,7 @@
 - 🌱 I’m learning **Machine Learning, Cloud Technologies (AWS, Azure)** and **Advanced SQL**.
 - 👯 I’m looking to collaborate on **Open-Source Projects** and **Freelance Data Analysis** work.
 - 💬 Ask me about **Python, SQL, Power BI, Web Development, Data Visualization**.
-- 📫 Reach me at: **tanweermuhammad@email.com** (Update with your real email)
+- 📫 Reach me at: **info.veer.786@gmail.com**
 - ⚡ Fun fact: **let's Exploring the World of Data & Empowering Businesses with Data-Driven Solutions. !**
 
 ---
@@ -35,11 +35,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Tanweer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Junior-Veer786&show_icons=true&theme=radical" alt="Tanweer's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Tanweer's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junior-Veer786&theme=radical" alt="Tanweer's Streak" />
 </p>
 
 ---
